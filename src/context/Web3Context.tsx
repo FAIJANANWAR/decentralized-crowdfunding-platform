@@ -2,6 +2,11 @@
 
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import { ethers } from 'ethers';
+declare global {
+  interface Window {
+    ethereum?: any;
+  }
+}
 
 interface Web3ContextType {
   account: string | null;
