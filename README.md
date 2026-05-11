@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FundChain - Decentralized Crowdfunding Platform
 
 FundChain is a premium, transparent, milestone-based decentralized crowdfunding platform built on the Ethereum blockchain. It empowers creators to raise funds while providing backers with unprecedented security through a decentralized voting system for fund releases.
@@ -82,3 +83,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 MIT License
+=======
+# decentralized-crowdfunding-platform
+A premium Web3 crowdfunding platform built with Next.js 14 and Solidity, featuring a decentralized milestone-based fund release system and contributor voting.
+>>>>>>> 7e47ca428cdbc9f7269f736b5ae365bd60768f3d
